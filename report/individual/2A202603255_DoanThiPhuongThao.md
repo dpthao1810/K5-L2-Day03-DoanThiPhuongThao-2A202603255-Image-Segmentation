@@ -20,7 +20,7 @@ Ghi tên ZIP đúng như file trong `submissions/` và số ảnh đã vẽ, Sav
 | cp1_holes | cp1_holes.zip | 1 / 1 | 3 |
 | cp2_slice | cp2_slice | 1 / 1 | 3 |
 | cp5_occlusion | cp5_occlusion.zip | 1 / 1 | 3 |
-| cp3_thin | chưa làm | 0 / 1 | 3 |
+| cp3_thin | cp3_thin.zip | 1 / 1 | 3 |
 | cp4_curb | chưa làm | 0 / 1 | 3 |
 | cp6_coverage | chưa làm | 0 / 1 | 3 |
 | **Tổng tối đa** | | | **100** |
